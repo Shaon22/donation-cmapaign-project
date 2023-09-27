@@ -18,7 +18,7 @@ const Donation = () => {
     },[])
     return (
         <div className="max-w-[1100px] mx-auto my-10" >
-            <div className="grid grid-cols-2 gap-5 ">
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-5 ">
             {
                 addDonation.slice(0,datalength).map(donation=>
                 <div  key={donation.id} className="flex gap-5 rounded" style={{backgroundColor:donation.card_bg}}>

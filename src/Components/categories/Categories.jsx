@@ -12,7 +12,7 @@ const Categories = () => {
     
     return (
         <div className="max-w-[1100px] mx-auto my-24" >
-            <div className="grid grid-cols-4 gap-5">
+            <div className="grid grid cols-1 md:grid-cols-4 gap-5">
             {
                 categories.map(category=><Category key={category.id} category={category}></Category>)
             }

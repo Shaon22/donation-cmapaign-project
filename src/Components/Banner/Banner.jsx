@@ -6,7 +6,7 @@ const Banner = () => {
             <div className="opacity-10 relative">
                 <img className="" src={'banner.jpg'} alt="" />
             </div>
-            <div className="absolute top-72 left-96">
+            <div className="absolute top-24 md:top-72 left-96">
             <h1 className="text-4xl font-bold ">I Grow By Helping People In Need</h1>
            <div className="w-[350px] mx-auto">
            <input className=" text-center border border-gray-200 rounded-l-lg 

@@ -1,0 +1,170 @@
+[
+    {
+        "id":1,
+        "picture":"https://i.ibb.co/M2vKLpN/Health.png",
+        "donation_pic":"https://i.ibb.co/q1cJMqN/Rectangle-4284.png",
+        "title":"Clean water for children",
+        "category_name":"Health",
+        "category_bg":"#0052FF",
+        "card_bg":"#0052ff26",
+        "text_button_bg":"#0052FF",
+        "description":"Your donation can transform lives by improving healthcare access and saving lives. Join us in our mission to provide essential medical services to those in need. Your support enables us to upgrade facilities, train healthcare professionals, and reach underserved communities. Together, we can make quality healthcare a reality for all. Donate now and be a part of the health revolution.",
+        "price":"$ 200"
+
+
+    },
+    {
+        "id":2,
+        "picture":"https://i.ibb.co/0F7jz3b/Clothing.png",
+        "donation_pic":"https://i.ibb.co/N1q2LN5/Rectangle-4287.png",
+        "title":"Used Clothing Drive",
+        "category_name":"Clothing",
+        "category_bg":"#79C23F",
+        "card_bg":"#79c2a326",
+        "text_button_bg":"#79C23F",
+        "description":"Extend a helping hand and make a difference by donating clothing today. Your contribution can provide warmth and dignity to those less fortunate. We accept gently used or new clothing items, which will be distributed to individuals and families in need. By donating, you're not just giving clothes; you're giving comfort, confidence, and a brighter future. Join us in clothing those who need it most and help us make a positive impact on lives.",
+        "price":"$ 300"
+
+
+    },
+    {
+        "id":3,
+        "picture":"https://i.ibb.co/qJPTthX/Education.png",
+        "donation_pic":"https://i.ibb.co/hDNF3kG/Rectangle-4287-1.png",
+        "title":"Good education",
+        "category_name":"Education",
+        "category_bg":"#FF444A",
+        "card_bg":"#ff404a26",
+        "text_button_bg":"#FF444A",
+        "description":"Empower the next generation through your donation to our Education Service Fund. Your support ensures that every child has access to quality education, breaking the cycle of poverty.Your contribution aids in providing essential learning resources, scholarships, and educational opportunities, enabling students to reach their full potential.",
+        "price":"$ 250"
+
+
+    },
+    {
+        "id":4,
+        "picture":"https://i.ibb.co/86Z9FDd/Food.png",
+        "donation_pic":"https://i.ibb.co/KrRXWB2/Rectangle-4287-2.png",
+        "title":"Better Food for Everyone",
+        "category_name":"Food",
+        "category_bg":"#F87147",
+        "card_bg":"#f8714726",
+        "text_button_bg":"#F87147",
+        "description":"Join us in the fight against hunger with your donation. Your contribution will provide nourishment, hope, and relief to those in need. Help us strengthen communities, support children's wellbeing, and respond to emergencies swiftly. No amount is too small; every donation counts in our mission to make hunger a thing of the past and build a better, more nourished future for all.",
+        "price":"$ 390"
+
+
+    },
+    {
+        "id":5,
+        "picture":"https://i.ibb.co/86Z9FDd/Food.png",
+        "donation_pic":"https://i.ibb.co/KrRXWB2/Rectangle-4287-2.png",
+        "title":"Better Food for Everyone",
+        "category_name":"Food",
+        "category_bg":"#F87147",
+        "card_bg":"#f8714726",
+        "text_button_bg":"#F87147",
+        "description":"Join us in the fight against hunger with your donation. Your contribution will provide nourishment, hope, and relief to those in need. Help us strengthen communities, support children's wellbeing, and respond to emergencies swiftly. No amount is too small; every donation counts in our mission to make hunger a thing of the past and build a better, more nourished future for all.",
+        "price":"$ 390"
+
+
+    },
+    {
+        "id":6,
+        "picture":"https://i.ibb.co/qJPTthX/Education.png",
+        "donation_pic":"https://i.ibb.co/hDNF3kG/Rectangle-4287-1.png",
+        "title":"Good education",
+        "category_name":"Education",
+        "category_bg":"#FF444A",
+        "card_bg":"#ff404a26",
+        "text_button_bg":"#FF444A",
+        "description":"Empower the next generation through your donation to our Education Service Fund. Your support ensures that every child has access to quality education, breaking the cycle of poverty.Your contribution aids in providing essential learning resources, scholarships, and educational opportunities, enabling students to reach their full potential.",
+        "price":"$ 250"
+
+
+    },
+    {
+        "id":7,
+        "picture":"https://i.ibb.co/0F7jz3b/Clothing.png",
+        "donation_pic":"https://i.ibb.co/N1q2LN5/Rectangle-4287.png",
+        "title":"Used Clothing Drive",
+        "category_name":"Clothing",
+        "category_bg":"#79C23F",
+        "card_bg":"#79c2a326",
+        "text_button_bg":"#79C23F",
+        "description":"Extend a helping hand and make a difference by donating clothing today. Your contribution can provide warmth and dignity to those less fortunate. We accept gently used or new clothing items, which will be distributed to individuals and families in need. By donating, you're not just giving clothes; you're giving comfort, confidence, and a brighter future. Join us in clothing those who need it most and help us make a positive impact on lives.",
+        "price":"$ 300"
+
+
+    },
+    {
+        "id":8,
+        "picture":"https://i.ibb.co/M2vKLpN/Health.png",
+        "donation_pic":"https://i.ibb.co/q1cJMqN/Rectangle-4284.png",
+        "title":"Clean water for children",
+        "category_name":"Health",
+        "category_bg":"#0052FF",
+        "card_bg":"#0052ff26",
+        "text_button_bg":"#0052FF",
+        "description":"Your donation can transform lives by improving healthcare access and saving lives. Join us in our mission to provide essential medical services to those in need. Your support enables us to upgrade facilities, train healthcare professionals, and reach underserved communities. Together, we can make quality healthcare a reality for all. Donate now and be a part of the health revolution.",
+        "price":"$ 200"
+
+
+    },
+    {
+        "id":9,
+        "picture":"https://i.ibb.co/M2vKLpN/Health.png",
+        "donation_pic":"https://i.ibb.co/q1cJMqN/Rectangle-4284.png",
+        "title":"Clean water for children",
+        "category_name":"Health",
+        "category_bg":"#0052FF",
+        "card_bg":"#0052ff26",
+        "text_button_bg":"#0052FF",
+        "description":"Your donation can transform lives by improving healthcare access and saving lives. Join us in our mission to provide essential medical services to those in need. Your support enables us to upgrade facilities, train healthcare professionals, and reach underserved communities. Together, we can make quality healthcare a reality for all. Donate now and be a part of the health revolution.",
+        "price":"$ 200"
+
+
+    },
+    {
+        "id":10,
+        "picture":"https://i.ibb.co/0F7jz3b/Clothing.png",
+        "donation_pic":"https://i.ibb.co/N1q2LN5/Rectangle-4287.png",
+        "title":"Used Clothing Drive",
+        "category_name":"Clothing",
+        "category_bg":"#79C23F",
+        "card_bg":"#79c2a326",
+        "text_button_bg":"#79C23F",
+        "description":"Extend a helping hand and make a difference by donating clothing today. Your contribution can provide warmth and dignity to those less fortunate. We accept gently used or new clothing items, which will be distributed to individuals and families in need. By donating, you're not just giving clothes; you're giving comfort, confidence, and a brighter future. Join us in clothing those who need it most and help us make a positive impact on lives.",
+        "price":"$ 300"
+
+
+    },
+    {
+        "id":11,
+        "picture":"https://i.ibb.co/qJPTthX/Education.png",
+        "donation_pic":"https://i.ibb.co/hDNF3kG/Rectangle-4287-1.png",
+        "title":"Good education",
+        "category_name":"Education",
+        "category_bg":"#FF444A",
+        "card_bg":"#ff404a26",
+        "text_button_bg":"#FF444A",
+        "description":"Empower the next generation through your donation to our Education Service Fund. Your support ensures that every child has access to quality education, breaking the cycle of poverty.Your contribution aids in providing essential learning resources, scholarships, and educational opportunities, enabling students to reach their full potential.",
+        "price":"$ 250"
+
+
+    },
+    {
+        "id":12,
+        "picture":"https://i.ibb.co/86Z9FDd/Food.png",
+        "donation_pic":"https://i.ibb.co/KrRXWB2/Rectangle-4287-2.png",
+        "title":"Better Food for Everyone",
+        "category_name":"Food",
+        "category_bg":"#F87147",
+        "card_bg":"#f8714726",
+        "text_button_bg":"#F87147",
+        "description":"Join us in the fight against hunger with your donation. Your contribution will provide nourishment, hope, and relief to those in need. Help us strengthen communities, support children's wellbeing, and respond to emergencies swiftly. No amount is too small; every donation counts in our mission to make hunger a thing of the past and build a better, more nourished future for all.",
+        "price":"$ 390"
+
+
+    }
+]

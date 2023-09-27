@@ -4,7 +4,7 @@ const Banner = () => {
     return (
         <div >
             <div className="opacity-10 relative">
-                <img src={'banner.jpg'} alt="" />
+                <img className="" src={'banner.jpg'} alt="" />
             </div>
             <div className="absolute top-72 left-96">
             <h1 className="text-4xl font-bold ">I Grow By Helping People In Need</h1>
